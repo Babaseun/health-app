@@ -1,0 +1,28 @@
+.landing-intro-content-right {
+  margin-bottom: 3rem;
+
+  .container {
+    height: 100%;
+    position: relative;
+  }
+}
+
+.landing-overlay-background {
+  z-index: -1;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.landing-overlay {
+  position: absolute;
+  top: -5rem;
+  right: 5rem;
+}
+.landing-intro-text-one,
+.landing-intro-text-two {
+  margin-bottom: 4rem;
+}
+.vector-icon-wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
